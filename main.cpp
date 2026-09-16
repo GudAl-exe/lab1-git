@@ -27,12 +27,12 @@ switch (choice) {
 case 1:
 cout << "Input r: ";
 cin >> r;
-cout << "Surface = " << sphereSurface(r) << "\n";
+cout << "Surface = " << sphereSurface(r) << " m^2\n";
 break;
 case 2:
 cout << "Input r: ";
 cin >> r;
-cout << "Volume = " << sphereVolume(r) << "\n";
+cout << "Volume = " << sphereVolume(r) << " m^3\n";
 break;
 case 0:
 cout << "Well Done.\n";
