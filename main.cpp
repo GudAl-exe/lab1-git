@@ -17,7 +17,7 @@ int main() {
 int choice;
 double r;
 do {
-cout << "\n=== Variant 14: Program for calculation ===\n";
+cout << "\n=== Variant 14: Program for calculation sphere volume and surface ===\n";
 cout << "1. Surface\n";
 cout << "2. Volume\n";
 cout << "0. Exit\n";
